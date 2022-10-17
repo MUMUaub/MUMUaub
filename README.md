@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangsenhui
-- 👀 I’m interested in US
+- 👀 I’m interested in gamedevelopment
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wangsenhui860@gmail.com
